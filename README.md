@@ -1,2 +1,4 @@
 # BasicPaintApp
-Basic paint C# WPF application
+Basic paint application writted in C# on WPF.
+
+Screenshots in attached PDF.
