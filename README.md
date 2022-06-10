@@ -1,6 +1,6 @@
 
 # PaintApp
-C# WPF Paint application in a simple form.
+C# WPF lightweight paint app.
 #
 
 
